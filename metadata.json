@@ -1,0 +1,5 @@
+{
+  "name": "GY OBD-II PRO Dashboard",
+  "description": "A professional-grade UDS (Unified Diagnostic Services) dashboard for real-time automotive monitoring, ECU diagnostics, and AI-assisted troubleshooting.",
+  "requestFramePermissions": []
+}
